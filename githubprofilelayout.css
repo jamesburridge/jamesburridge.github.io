@@ -1,0 +1,90 @@
+body { 
+background: #eceddf; 
+font-family: arial; 
+
+}
+
+a{ 
+text-decoration: none; 
+color: #703649;
+}
+a:hover{ 
+color:#a18290;
+}
+
+hr.dotted{
+border-top: 1px dashed #f0f2f2;    
+}
+
+#header { 
+background-color: #eceddf;
+text-align: center;
+padding-top: 50px; 
+padding-bottom: 50px;
+}
+
+#container {
+background-color: #fcfcfc; 
+width: 900px; 
+margin-left: auto; 
+margin-right: auto;    
+}
+
+#intro{
+padding-top: 100px;
+padding-left: 100px; 
+padding-right: 100px; 
+    
+}
+
+#intro2{
+padding-top: 25px;
+padding-left: 100px; 
+padding-right: 100px;     
+    
+    
+}
+
+#container-flex{
+display: flex;  
+justify-content: center;
+}
+
+#content-left {
+float:left; 
+padding-top: 80px;
+padding-left: 50px; 
+padding-right: 10px; 
+padding-bottom: 20px;
+}
+
+#content-right{
+float:right; 
+padding-top: 80px;
+padding-left: 50px; 
+padding-right: 10px; 
+padding-bottom: 20px;
+    
+}
+
+
+#before-footer{
+clear:both; 
+padding-top: 25px;
+padding-left: 100px; 
+padding-right: 100px;   
+}
+    
+
+#footer{
+clear: both; 
+padding-top: 50px;
+padding-bottom: 50px;
+background-color: #eceddf;
+text-align: center;
+}
+
+
+
+
+
